@@ -17,7 +17,7 @@
 
 # التنصيب
 
-git clone https://github.com/x7h/x7_bot.git
+git clone https://github.com/KASPER1984/x7_bot.git
 cd x7_bot
 chmod +x x7_bot.sh
 ./x7_bot.sh install
@@ -31,7 +31,7 @@ After you run the bot for first time, send it `!id`. Get your ID and stop the bo
 Open ./bot/bot.lua and add your ID to the "sudo_users" section in the following format:
 ```
     sudo_users = {
-    157059515,
+    270267532,
     0,
     YourID
   }
