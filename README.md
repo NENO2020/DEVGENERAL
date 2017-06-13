@@ -17,11 +17,11 @@
 
 # التنصيب
 
-git clone https://github.com/KASPER1984/x7_bot.git
-cd x7_bot
-chmod +x x7_bot.sh
-./x7_bot.sh install
-./x7_bot.sh 
+git clone https://github.com/NENO2020/DEVGENERAL.git
+cd DEVGENERAL
+chmod +x DEVGENERAL.sh
+./DEVGENERAL.sh install
+./DEVGENERAL.sh 
  #عيد اخر كودين
 # Enter a phone number & confirmation code.
 
