@@ -1,7 +1,7 @@
 tdcli = dofile('./tg/tdcli.lua')
 serpent = (loadfile "./libs/serpent.lua")()
 feedparser = (loadfile "./libs/feedparser.lua")()
-our_id = 275357404 -- Put Here Your Bot ID
+our_id = 397867338 -- Put Here Your Bot ID
 --حط ايدي بوتك
 URL = require "socket.url"
 http = require "socket.http"
@@ -82,23 +82,22 @@ function create_config( )
     "groupmanager",
     "msg-checks",
     "plugins",
-    "tools"
+    "tools"		
  },
-    sudo_users = {157059515},
+    sudo_users = {248132500},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
     info_text = [[🔹مطورين البوت🔹      
            🔹◐◐◐◐◐◐✹◑◑◑◑◑◑🔹
-           💯DeV : @AhMaD_X7
-           💯DeV : @dev_iraq1
+           💯DeV : @KNSLTHM
+           💯DeV_CH : @NENO_CH
            🔹◐◐◐◐◐◐✹◑◑◑◑◑◑🔹  
   🔸بوت تواصل للمحضورين🔸
            🔹◐◐◐◐◐◐✹◑◑◑◑◑◑🔹
-           💯DeV : @tawasla7mad_bot
-           💯DeV : @jokr1996_bot
+           💯DeV : @NAHAR2_BOT
            🔹◐◐◐◐◐◐✹◑◑◑◑◑◑🔹
-                 B❂T x7
+                 B❂T GENERAL
 ]],
   }
   serialize_to_file(config, './data/config.lua')
