@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/x7_bot
+cd $HOME/DEVGENERAL
 
 install() {
 	    cd tg
